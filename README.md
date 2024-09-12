@@ -22,7 +22,7 @@ No projeto implementando o OCP:
 
 #### 🎯 Benefícios:
 - **Extensibilidade**: Podemos adicionar novos tipos de descontos 💡 criando novas classes de estratégia, sem alterar o código que já funciona.
-- **Menos bugs**: Como o código existente não precisa ser modificado 🔒, evitamos a introdução de novos bugs no sistema.
+- **Menos bugs**: Como o código existente não precisa ser modificado 🔒, evitamos a introdução de novos bugs no sistema. 
 
 ## Estrutura do Projeto 
 ![image](https://github.com/user-attachments/assets/97b1a83f-3846-408f-839d-9edbe9f59dca)
