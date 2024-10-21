@@ -1,5 +1,5 @@
  
-# 🏗️ Open/Closed Principle (OCP)
+# 🏗️ Open/Closed Principle (OCP) 
 ![image](https://github.com/user-attachments/assets/a26b52d7-e978-484a-b79b-07684a57b2c5)
 ## O que é o OCP?
 
