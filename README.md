@@ -1,7 +1,7 @@
  
 # 🏗️ Open/Closed Principle (OCP) 
 ![image](https://github.com/user-attachments/assets/a26b52d7-e978-484a-b79b-07684a57b2c5)
-## O que é o OCP?
+## O que é o OCP? 
 
 O **Princípio Aberto/Fechado (OCP)** afirma que uma classe deve ser **aberta para extensão** 🔄, mas **fechada para modificação** 🔒. Isso significa que podemos adicionar novas funcionalidades ao sistema sem precisar alterar o código existente. 🛡️ Isso ajuda a evitar bugs e mantém a estabilidade do sistema.
 
